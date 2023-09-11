@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "822786896504",
+    "project_id": "apgard-2e90b",
+    "storage_bucket": "apgard-2e90b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822786896504:android:1d585b6c9c83d50a8b738d",
+        "android_client_info": {
+          "package_name": "com.guard_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822786896504-d36upb9o86ig61spoq888vq7es6fd0f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCinJveH5tpK6zBsHOFE2Uw3jI59zo4f2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822786896504-d36upb9o86ig61spoq888vq7es6fd0f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822786896504:android:5d8a471bb4f6f0198b738d",
+        "android_client_info": {
+          "package_name": "company.atma.apgard.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822786896504-d36upb9o86ig61spoq888vq7es6fd0f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCinJveH5tpK6zBsHOFE2Uw3jI59zo4f2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822786896504-d36upb9o86ig61spoq888vq7es6fd0f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
